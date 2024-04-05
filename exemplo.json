@@ -1,0 +1,6 @@
+{'emotions': {'anger': 0.145,
+              'disgust': 0.145,
+              'fear': 0.145,
+              'joy': 0.775,
+              'sadness': 0.145},
+ 'sentiment': {'label': 'MIXED', 'score': 0.2916666666666667}}

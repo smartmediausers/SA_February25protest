@@ -1,0 +1,10 @@
+import pandas as pd
+
+# O timestamp está em milissegundos e é negativo, representando uma data/hora antes de 1970
+timestamp_ms = -2208978000000
+# Convertendo para datetime no Pandas
+timestamp_datetime = pd.to_datetime(timestamp_ms, unit='ms')
+# Formatando para HH:MM
+hora_string = timestamp_datetime.strftime('%H:%M')
+
+print(hora_string)
