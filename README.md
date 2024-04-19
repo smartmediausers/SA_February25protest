@@ -1,10 +1,9 @@
-# Análise dos comentários no YouTube do evento de 25 de Fevereiro
+# Analysis of the YouTube comments on the February 25th event
 
-Repositório com scripts python para processamento dos dados referente a coleta realizado no YouTube.
-O mesmo contém scripts para geração dos gráficos gerados no artigo tal como as segmentações por palavras e também os resultados de análise de sentimento extraídas ao longo do tempo.
+Repository with Python scripts for processing data related to the collection carried out on YouTube. It contains scripts for generating the graphs presented in the article, as well as segmentations by words and also the results of sentiment analysis extracted over time.
 
-Autores:
+Authors:
 
- - Alan Cesar Belo Angeluci
+ - Alan César Belo Angeluci
  - Carlos Henrique Sabino Caldas
  - Gustavo Moreira Calixto
